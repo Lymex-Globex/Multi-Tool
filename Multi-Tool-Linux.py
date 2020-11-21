@@ -1,5 +1,5 @@
 ####Made by Lymex
-####Windows Version
+####Linux Version
 
 
 import time
